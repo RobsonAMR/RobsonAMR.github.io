@@ -1,8 +1,6 @@
 # robsonamr.github.io
 🍋 📧 🥇 🎱 🇧🇷 🏈
-<div style="background-color: #f0f0f0; padding: 10px;">
-  <p>Este é um bloco de texto com fundo colorido.</p>
-</div>
+<div style="background-color: black; color: white; padding: 20px;">
 ## Um pouco sobre Robson 
 **Robson de Almeida Morais Rocha, tem 29 anos, formado em Análise e Desenvolvimento de Sistemas,
 casado com Ana Caroline, tem um filho de 5 anos chamado Daniel,trabalha no Tribunal Regional Federal da Primeira Região (TRF1) e é apaixonado por carros, em especial o Dodge Charger RT 1970.**    
