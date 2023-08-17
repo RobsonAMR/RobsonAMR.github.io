@@ -1,5 +1,4 @@
 # robsonamr.github.io
-
 🍋 📧 🥇 🎱 🇧🇷 🏈
 
 ## Um pouco sobre Robson 
@@ -27,3 +26,9 @@ casado com Ana Caroline, tem um filho de 5 anos chamado Daniel,trabalha no Tribu
 > [!IMPORTANT]
 > Para se ter sucesso é necessario falhar e para falhar é necessário começar.
 
+body {
+  font-family: 'Playfair Display', serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
