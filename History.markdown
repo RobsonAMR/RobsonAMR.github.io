@@ -1,6 +1,6 @@
-## Sobre Robson
+## Sobre
 
-### Conheca a um Pouco sobre Robson
+### Sobre Robson
 
    Robson de Almeida Morais Rocha, tem 29 anos, formado em Análise e Desenvolvimento de Sistemas,
       casado com Ana Caroline, tem um filho de 5 anos chamado Daniel,
@@ -23,3 +23,4 @@
    Para ele, Deus está acima de tudo: família, emprego, prosperidade. Sua fé em <strong>"Deus"</strong> é maior que qualquer coisa, 
       pois sem Ele ele não seria ninguém. Isso é um ensinamento que passa diariamente ao seu filho,
       pois Deus é quem nos guarda e é o criador de todas as coisas. Procura sempre buscá-Lo em todos os momentos da vida, seja na adversidade ou na alegria.
+
