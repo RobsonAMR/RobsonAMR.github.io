@@ -16,7 +16,7 @@
   font-weight: 300;
   letter-spacing: -1px;
   margin-bottom: 0;
-  float: left;
+  float: center;
 
   @include media-query($on-palm) {
     padding-right: 45px;
@@ -24,7 +24,7 @@
 
   &,
   &:visited {
-    color: $site-title-color;
+    color: yellow;
   }
 }
 
@@ -32,7 +32,7 @@
   position: none;
   top: 9px;
   right: $spacing-unit * .5;
-  background-color: $background-color;
+  background-color: blue;
   border: 1px solid $border-color-01;
   border-radius: 5px;
   text-align: right;
@@ -74,7 +74,7 @@
   }
 
   .page-link {
-    color: $text-color;
+    color: gold;
     line-height: $base-line-height;
     display: block;
     padding: 5px 10px;
@@ -87,7 +87,7 @@
   }
 
   @media screen and (min-width: $on-medium) {
-    position: static;
+    position: none;
     float: right;
     border: none;
     background-color: inherit;
@@ -109,7 +109,7 @@
       padding: 0;
 
       &:not(:last-child) {
-        margin-right: 20px;
+        margin-right: 30px;
       }
       margin-left: auto;
     }
@@ -122,7 +122,7 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $border-color-01;
+  border-top: 1px solid green;
   padding: $spacing-unit 0;
 }
 
@@ -132,7 +132,7 @@
 }
 
 .feed-subscribe .svg-icon {
-  padding: 5px 5px 2px 0
+  padding: 10px 10px 5px 0
 }
 
 .contact-list,
@@ -144,7 +144,7 @@
 .footer-col-wrapper,
 .social-links {
   @include relative-font-size(0.9375);
-  color: $brand-color;
+  color: white;
 }
 
 .footer-col {
