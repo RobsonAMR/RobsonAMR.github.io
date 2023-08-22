@@ -11,7 +11,7 @@ description: >
 
 # Build settings
 
-theme: minima
+theme: maxima
 
 plugins:
   - jekyll-feed
