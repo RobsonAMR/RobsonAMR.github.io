@@ -7,4 +7,5 @@
 #
 layout: home
 ---
-![](https://img.freepik.com/fotos-premium/grupo-de-animais-de-estimacao-cao-gato-passaro-coelho_191971-22463.jpg)
+![Loja de Ferragens](assets/ferragens-e-ferramentas-imagem.jpg)
+![](https://blog.vhsys.com.br/wp-content/uploads/2013/09/sistema-loja-ferragens-vhsys.jpg)
